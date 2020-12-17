@@ -1,13 +1,3 @@
-# Dev-Notes
-  I do it purely for myself, so that I know where to go if I forgot the
-  documentation or something else, and just for others, it may be useful to
-  someone
-  
-## What are these developer notes for?
-I do it purely for myself, so that I know where to go if I forgot the documentation or something else, and just for others, it may be useful to someone.
+# Developer Notes
 
-## Can I add something from myself?
-Yes you can, no problem.
-
-
-
+From time to time I write here all sorts of things that someone did for me, that I did or that I want to do and have not yet done.
